@@ -55,3 +55,11 @@ aside{
     width: 200px;
     margin-left: 15px;
 }
+.article1{
+    border: 3px dotted darkgreen;
+    background-color: green;
+}
+.article2{
+    border: 2px dotted darkblue;
+    background-color: lightblue;
+}
