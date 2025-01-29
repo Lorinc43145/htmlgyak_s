@@ -1,0 +1,56 @@
+footer,
+aside,
+article {
+  border: 1px dashed red;
+}
+.nig {
+  text-align: center;
+  height: 230px;
+  width: 400px;
+}
+
+.cig {
+  height: 230px;
+  width: 400px;
+  text-align: center;
+}
+.a {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.b {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.vaaa {
+  text-align: center;
+  height: 230px;
+  width: 650px;
+}
+.valami {
+  text-align: center;
+  height: 230px;
+  width: 150px;
+}
+footer{ 
+    width: 100%;
+    height: 280px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.egy .kettő .három {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
