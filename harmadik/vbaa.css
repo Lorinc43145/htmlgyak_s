@@ -1,6 +1,4 @@
-footer,
-aside,
-article {
+footer,aside,article {
   border: 1px dashed red;
 }
 .nig {
@@ -8,7 +6,6 @@ article {
   height: 230px;
   width: 400px;
 }
-
 .cig {
   height: 230px;
   width: 400px;
