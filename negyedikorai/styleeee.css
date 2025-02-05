@@ -1,0 +1,66 @@
+header,
+nav,
+aside,
+article,
+section,
+footer {
+  border: 1px red dotted;
+  border-radius: 10px;
+  text-align: center;
+}
+.a {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.b {
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 150px;
+}
+.c {
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 150px;
+}
+.d {
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 150px;
+}
+nav {
+  height: 20px;
+  width: 75%;
+  margin-left: 230px;
+}
+.nig1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.anyád {
+  height: 200px;
+  width: 170px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.apád {
+  height: 200px;
+  width: 170px;
+  margin-left: auto;
+  margin-right: auto;
+}
+aside {
+  height: 500px;
+  width: 150px;
+}
+section {
+  width: 500px;
+  height: 500px;    
+}
