@@ -37,17 +37,29 @@ footer,aside,article {
 }
 footer{ 
   width: 100%;
-  height: 280px;
+  height: 300px;
 }
 .container {
   display: flex;
   justify-content: center;
-  gap: 40px;
-}
-.egy .kettő .három {
-  height: 150px;
-  width: 150px;
+  gap: 30px;
   text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
+}
+.c{
+  height: 150px;
+  width: 300px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.d{
+  height: 150px;
+  width: 300px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.e{
+  height: 150px;
+  width: 300px;
+  margin-top: 60px;
+  margin-bottom: 30px;
 }
