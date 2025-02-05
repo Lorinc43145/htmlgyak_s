@@ -36,8 +36,8 @@ footer,aside,article {
   width: 150px;
 }
 footer{ 
-    width: 100%;
-    height: 280px;
+  width: 100%;
+  height: 280px;
 }
 .container {
   display: flex;
@@ -45,9 +45,9 @@ footer{
   gap: 40px;
 }
 .egy .kettő .három {
-    height: 150px;
-    width: 150px;
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
