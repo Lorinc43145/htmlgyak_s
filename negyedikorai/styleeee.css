@@ -35,6 +35,8 @@ nav {
   height: 20px;
   width: 75%;
   margin-left: 230px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 .nig1 {
   display: flex;
@@ -69,4 +71,32 @@ section {
   justify-content: center;
   align-items: center;
   gap: 30px;
+  margin-bottom: 5px;
+}
+.val1{
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 150px;
+}
+.val2{
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 150px;
+}
+.val3{
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 150px;
+}
+.val4{
+  width: 300px; 
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 150px;
+}
+div{
+  margin-bottom: 5px;
 }
